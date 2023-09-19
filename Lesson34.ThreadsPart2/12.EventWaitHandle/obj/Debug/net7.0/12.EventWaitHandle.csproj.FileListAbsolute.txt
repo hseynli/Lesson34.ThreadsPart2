@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\bin\Debug\net7.0\12.EventWaitHandle.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\bin\Debug\net7.0\12.EventWaitHandle.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\bin\Debug\net7.0\12.EventWaitHandle.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\bin\Debug\net7.0\12.EventWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\bin\Debug\net7.0\12.EventWaitHandle.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\refint\12.EventWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\12.EventWaitHandle.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\12.EventWaitHandle\obj\Debug\net7.0\ref\12.EventWaitHandle.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\bin\Debug\net7.0\04.Semaphore.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\bin\Debug\net7.0\04.Semaphore.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\bin\Debug\net7.0\04.Semaphore.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\bin\Debug\net7.0\04.Semaphore.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\bin\Debug\net7.0\04.Semaphore.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\refint\04.Semaphore.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\04.Semaphore.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\04.Semaphore\obj\Debug\net7.0\ref\04.Semaphore.dll

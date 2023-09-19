@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\bin\Debug\net7.0\01.ThreadPool.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\bin\Debug\net7.0\01.ThreadPool.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\bin\Debug\net7.0\01.ThreadPool.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\bin\Debug\net7.0\01.ThreadPool.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\bin\Debug\net7.0\01.ThreadPool.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\refint\01.ThreadPool.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\01.ThreadPool.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\ConsoleApp1\obj\Debug\net7.0\ref\01.ThreadPool.dll

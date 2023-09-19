@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\bin\Debug\net7.0\05.SemaphoreSlim.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\bin\Debug\net7.0\05.SemaphoreSlim.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\bin\Debug\net7.0\05.SemaphoreSlim.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\bin\Debug\net7.0\05.SemaphoreSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\bin\Debug\net7.0\05.SemaphoreSlim.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\refint\05.SemaphoreSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\05.SemaphoreSlim.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\05.SemaphoreSlim\obj\Debug\net7.0\ref\05.SemaphoreSlim.dll

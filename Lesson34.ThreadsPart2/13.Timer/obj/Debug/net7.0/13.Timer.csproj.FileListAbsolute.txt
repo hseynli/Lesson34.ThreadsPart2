@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\bin\Debug\net7.0\13.Timer.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\bin\Debug\net7.0\13.Timer.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\bin\Debug\net7.0\13.Timer.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\bin\Debug\net7.0\13.Timer.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\bin\Debug\net7.0\13.Timer.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\refint\13.Timer.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\13.Timer.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\13.Timer\obj\Debug\net7.0\ref\13.Timer.dll

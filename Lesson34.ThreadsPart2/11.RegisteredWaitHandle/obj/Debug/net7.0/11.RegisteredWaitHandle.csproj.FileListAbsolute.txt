@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\bin\Debug\net7.0\11.RegisteredWaitHandle.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\bin\Debug\net7.0\11.RegisteredWaitHandle.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\bin\Debug\net7.0\11.RegisteredWaitHandle.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\bin\Debug\net7.0\11.RegisteredWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\bin\Debug\net7.0\11.RegisteredWaitHandle.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\refint\11.RegisteredWaitHandle.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\11.RegisteredWaitHandle.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\11.RegisteredWaitHandle\obj\Debug\net7.0\ref\11.RegisteredWaitHandle.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\bin\Debug\net7.0\08.ManualResetEvent.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\bin\Debug\net7.0\08.ManualResetEvent.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\bin\Debug\net7.0\08.ManualResetEvent.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\bin\Debug\net7.0\08.ManualResetEvent.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\bin\Debug\net7.0\08.ManualResetEvent.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\refint\08.ManualResetEvent.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\08.ManualResetEvent.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\08.ManualResetEvent\obj\Debug\net7.0\ref\08.ManualResetEvent.dll

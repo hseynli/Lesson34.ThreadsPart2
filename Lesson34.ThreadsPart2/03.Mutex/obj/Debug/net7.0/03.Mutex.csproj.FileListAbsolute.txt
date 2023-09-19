@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\bin\Debug\net7.0\03.Mutex.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\bin\Debug\net7.0\03.Mutex.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\bin\Debug\net7.0\03.Mutex.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\bin\Debug\net7.0\03.Mutex.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\bin\Debug\net7.0\03.Mutex.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\refint\03.Mutex.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\03.Mutex.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\03.Mutex\obj\Debug\net7.0\ref\03.Mutex.dll

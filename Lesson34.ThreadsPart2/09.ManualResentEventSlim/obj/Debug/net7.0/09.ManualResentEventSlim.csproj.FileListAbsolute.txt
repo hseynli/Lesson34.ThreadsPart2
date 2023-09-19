@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\bin\Debug\net7.0\09.ManualResentEventSlim.exe
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\bin\Debug\net7.0\09.ManualResentEventSlim.deps.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\bin\Debug\net7.0\09.ManualResentEventSlim.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\bin\Debug\net7.0\09.ManualResentEventSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\bin\Debug\net7.0\09.ManualResentEventSlim.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\refint\09.ManualResentEventSlim.dll
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.pdb
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\09.ManualResentEventSlim.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ThreadsPart2\09.ManualResentEventSlim\obj\Debug\net7.0\ref\09.ManualResentEventSlim.dll
